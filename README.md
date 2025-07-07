@@ -1,4 +1,4 @@
-<h1>✨ Criador Mágico de Animações com IA </h1>
+<h1>✨ Criador Mágico de Animações com IA  </h1>
 
 <br>
 <h3> Descrição</h3>
@@ -28,3 +28,4 @@ IA (GROQ) – Geração de roteiros, decisões criativas, transformações autom
 
 🌐 Interface intuitiva e responsiva para todos os dispositivos.</p>
 <br>
+
