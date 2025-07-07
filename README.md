@@ -28,4 +28,4 @@ IA (GROQ) – Geração de roteiros, decisões criativas, transformações autom
 
 🌐 Interface intuitiva e responsiva para todos os dispositivos.</p>
 <br>
-<h2>Acesse Aqui <a href"https://gabrieloliveira2103.github.io/projeto-Anima--es-com-IA/">Criador Mágico</a></h2>
+<h2>Acesse Aqui <a href " https://gabrieloliveira2103.github.io/projeto-Anima--es-com-IA/">Criador Mágico</a></h2>
