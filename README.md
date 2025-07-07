@@ -27,3 +27,4 @@ IA (GROQ) – Geração de roteiros, decisões criativas, transformações autom
 📩 Envio automático de respostas, arquivos ou animações.
 
 🌐 Interface intuitiva e responsiva para todos os dispositivos.</p>
+<br>
